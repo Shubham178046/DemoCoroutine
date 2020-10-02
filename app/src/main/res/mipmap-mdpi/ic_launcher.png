@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <attr format="reference" name="appBarLayoutStyle"/>
+    <attr format="reference" name="badgeStyle"/>
+    <attr format="reference" name="bottomAppBarStyle"/>
+    <attr format="reference" name="bottomNavigationStyle"/>
+    <attr format="reference" name="bottomSheetDialogTheme"/>
+    <attr format="reference" name="bottomSheetStyle"/>
+    <attr format="reference" name="checkedIcon"/>
+    <attr format="color" name="checkedIconTint"/>
+    <attr format="reference" name="chipGroupStyle"/>
+    <attr format="reference" name="chipStandaloneStyle"/>
+    <attr format="reference" name="chipStyle"/>
+    <attr name="colorOnBackground"/>
+    <attr format="color" name="colorOnError"/>
+    <attr format="color" name="colorOnPrimary"/>
+    <attr format="color" name="colorOnPrimarySurface"/>
+    <attr format="color" name="colorOnSecondary"/>
+    <attr format="color" name="colorOnSurface"/>
+    <attr format="color" name="colorPrimarySurface"/>
+    <attr format="color" name="colorPrimaryVariant"/>
+    <attr format="color" name="colorSecondary"/>
+    <attr format="color" name="colorSecondaryVariant"/>
+    <attr format="color" name="colorSurface"/>
+    <attr format="color" name="elevationOverlayColor"/>
+    <attr format="boolean" name="elevationOverlayEnabled"/>
+    <attr format="boolean" name="ensureMinTouchTargetSize"/>
+    <attr format="reference" name="extendedFloatingActionButtonStyle"/>
+    <attr format="reference" name="floatingActionButtonStyle"/>
+    <attr format="reference" name="hideMotionSpec"/>
+    <attr format="boolean" name="isMaterialTheme"/>
+    <attr format="reference" name="itemShapeAppearance"/>
+    <attr format="reference" name="itemShapeAppearanceOverlay"/>
+    <attr format="color" name="itemTextColor"/>
+    <attr format="reference" name="materialButtonOutlinedStyle"/>
+    <attr format="reference" name="materialButtonStyle"/>
+    <attr format="reference" name="materialButtonToggleGroupStyle"/>
+    <attr format="reference" name="materialCalendarDay"/>
+    <attr format="reference" name="materialCalendarFullscreenTheme"/>
+    <attr format="reference" name="materialCalendarHeaderConfirmButton"/>
+    <attr format="reference" name="materialCalendarHeaderDivider"/>
+    <attr format="reference" name="materialCalendarHeaderLayout"/>
+    <attr format="reference" name="materialCalendarHeaderSelection"/>
+    <attr format="reference" name="materialCalendarHeaderTitle"/>
+    <attr format="reference" name="materialCalendarHeaderToggleButton"/>
+    <attr format=
